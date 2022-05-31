@@ -1,8 +1,9 @@
 # A Shopping-Cart website Using React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## Prominent features of app are
+
 
 In the project directory, you can run:
 
