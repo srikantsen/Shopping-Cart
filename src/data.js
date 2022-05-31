@@ -1,10 +1,10 @@
 const list = [
   {
     id: 1,
-    title: "My First Book of Pencil Control",
-    author: "by Wonder House Books | 25 April 2018",
-    price: 89,
-    img: "https://m.media-amazon.com/images/I/810OOg88LoL._AC_UY327_FMwebp_QL65_.jpg",
+    title: "Code Complete",
+    author: "by Steve McConnell | 25 April 2018",
+    price: 1293,
+    img: "https://m.media-amazon.com/images/P/0735619670.01._SCLZZZZZZZ_SX500_.jpg",
     amount: 1,
   },
   {
